@@ -1,2 +1,4 @@
 
  this is my new file for directory
+
+This is for new patch operation
